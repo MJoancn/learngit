@@ -1,0 +1,4 @@
+nihao 
+helloworld
+bonjour
+arigado
